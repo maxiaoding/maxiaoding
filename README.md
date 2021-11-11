@@ -1,21 +1,26 @@
 
 
-### Hi there 👋
+### Hi there 世界 ，你好👋
 
 
-**maxiaoding/maxiaoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 一个IT数字游民。
 
-🎓 大连理工大学二年级学生。
+『
+一名谷粉、and一名锤友..
+喜欢新老事物，爱折腾，关注科技、数码
+中二少年（一名97后），音乐发烧友，喜欢慢跑，散步，偶尔看电影、健身
+🌊喜欢看电子书、玩电脑、音乐、上网冲浪🏄🏿、🏛️/摄影📷and 政治和任何有趣的事情。
+』
 
-🌊 谈论 ACGN（和 🎵音乐🎵）、艺术（尤其是建筑设计）🏛️/摄影📷），科学（尤其是数学/生物学/哲学/历史）📜)、政治和任何有趣的事情。
+## 个人格言：
+> 轻财足以聚人，律己足以服人，量宽足以得人，身先足以率人
+> 
+- 中/英文昵称：万能的小马丁、Maxiaoding、小马丁(xiaomading)
 
-🔥 算法竞赛（OI 和*CPC）经验不佳。
-
-✨欠发达的网络/蜘蛛开发人员。主要使用C++/Python/JavaScript（HTML、CSS），有Docker/Node.js/Selenium等方面的经验。
+🤩 个人博客：https://maxiaoding.gitee.io/
+📮 邮箱：xiaomading1@gmail.com
 
 🌏 中文（母语）/英文（第一外语）
-
-⏳ 想学日语、Haskell、计算机视觉等。
 
 > 越是孤单 越是向前
 
