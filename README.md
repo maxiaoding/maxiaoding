@@ -32,8 +32,7 @@
 
 > 越是疲倦 越不能歇
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxiaoding)](https://github.com/maxiaoding/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxiaoding&show_icons=true&theme=radical)
 
 
