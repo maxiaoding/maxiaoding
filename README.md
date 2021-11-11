@@ -3,7 +3,7 @@
 ### Hi there 世界 ，你好👋
 
 
-🎓 一个IT数字游民。
+🎓 一位IT数字游民。
 
 
 
@@ -34,5 +34,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxiaoding)](https://github.com/maxiaoding/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
