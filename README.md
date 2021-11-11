@@ -36,7 +36,7 @@
 🌏 中文（母语）/英文（第一外语）
 
 ## 操作环境
- <h3 dir="auto"><a id="user-content-操作环境" class="anchor" aria-hidden="true" href="#操作环境"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>操作环境</h3>
+
 <p dir="auto"><a href="https://www.microsoft.com/windows/get-windows-10" rel="nofollow"><img src="https://camo.githubusercontent.com/d29d8e26f3dd9be1b57126415a3b49976011b7a419053704d527b10ecf79a5ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d31302d3333414144443f7374796c653d666c61742d737175617265266c6f676f3d77696e646f7773266c6f676f436f6c6f723d366366" alt="" data-canonical-src="https://img.shields.io/badge/Windows-10-33AADD?style=flat-square&amp;logo=windows&amp;logoColor=6cf" style="max-width: 100%;"></a>
 <a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/26d274d99d3c00cb462c4561a6d05f897ee7e07f89a06b2431637efbcbc74162/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4944452d56697375616c25323053747564696f253230436f64652d3333414144443f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d366366" alt="" data-canonical-src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-33AADD?style=flat-square&amp;logo=visual-studio-code&amp;logoColor=6cf" style="max-width: 100%;"></a></p>
 <p dir="auto"><a href="https://www.mi.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/fdefc75eb78cdb5d264bcbe3c00b82fac3b3ca0785cef1b6bdf4be20c1738587/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d694d61782d332d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d616e64726f6964266c6f676f436f6c6f723d676f6c64656e" alt="" data-canonical-src="https://img.shields.io/badge/MiMax-3-black?style=flat-square&amp;logo=android&amp;logoColor=golden" style="max-width: 100%;"></a>
@@ -49,7 +49,7 @@
 ## Github 统计
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxiaoding&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxiaoding&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
