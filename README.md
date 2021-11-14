@@ -12,21 +12,24 @@
 
 🎓 一位IT数字游民。
 
+专业：计算机网络技术/网络工程
 
-
-
+## 关于
 『
 一名·谷粉、and一名锤友..
 喜欢新老事物，爱折腾，关注科技、数码
 
-中二少年（一名97后），音乐发烧友，喜欢慢跑，散步，偶尔看电影、健身
+中二少年（一名97后），音乐发烧友，喜欢打篮球⛹️，散步，偶尔看电影、等等娱乐项目...
 
 🌊喜欢看电子书、玩电脑、音乐、上网冲浪🏄🏿、🏛️/摄影📷and 政治和任何有趣的事情。
 』
 
 ## 个人格言：
+
 > 轻财足以聚人，律己足以服人，量宽足以得人，身先足以率人
-> 
+
+## 其他
+
 - 中/英文昵称：万能的小马丁、Maxiaoding、小马丁(xiaomading)
 
 🤩 个人博客：https://maxiaoding.gitee.io/
@@ -39,12 +42,18 @@
 
 ## 操作环境
 
+- macOS catalina  
+- 锤子坚果pro3
+- 坚果pro2s
+- sublime Text 3
+- windows 10
+
 <p dir="auto"><a href="https://www.microsoft.com/windows/get-windows-10" rel="nofollow"><img src="https://camo.githubusercontent.com/d29d8e26f3dd9be1b57126415a3b49976011b7a419053704d527b10ecf79a5ed/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d31302d3333414144443f7374796c653d666c61742d737175617265266c6f676f3d77696e646f7773266c6f676f436f6c6f723d366366" alt="" data-canonical-src="https://img.shields.io/badge/Windows-10-33AADD?style=flat-square&amp;logo=windows&amp;logoColor=6cf" style="max-width: 100%;"></a>
 <a href="https://code.visualstudio.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/26d274d99d3c00cb462c4561a6d05f897ee7e07f89a06b2431637efbcbc74162/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4944452d56697375616c25323053747564696f253230436f64652d3333414144443f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d366366" alt="" data-canonical-src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-33AADD?style=flat-square&amp;logo=visual-studio-code&amp;logoColor=6cf" style="max-width: 100%;"></a></p>
 <p dir="auto"><a href="https://www.mi.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/fdefc75eb78cdb5d264bcbe3c00b82fac3b3ca0785cef1b6bdf4be20c1738587/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d694d61782d332d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d616e64726f6964266c6f676f436f6c6f723d676f6c64656e" alt="" data-canonical-src="https://img.shields.io/badge/MiMax-3-black?style=flat-square&amp;logo=android&amp;logoColor=golden" style="max-width: 100%;"></a>
 <a href="https://www.apple.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/a6af881f71ecf1cc4cfbcc9f9764f891f73edbe4dcfbb9167ceb3790470c5164/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6950686f6e652d53452d6c69676874677265793f7374796c653d666c61742d737175617265266c6f676f3d6170706c65266c6f676f436f6c6f723d676f6c64656e" alt="" data-canonical-src="https://img.shields.io/badge/iPhone-SE-lightgrey?style=flat-square&amp;logo=apple&amp;logoColor=golden" style="max-width: 100%;"></a>
 <a href="https://lineageos.org" rel="nofollow"><img src="https://camo.githubusercontent.com/4beabe8522529d72bee6aa37b9f26e7ee03aa7f36ec7eb18b8f0977776a479d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e656167654f532d31382e312d3136374338303f7374796c653d666c61742d737175617265266c6f676f3d6c696e656167656f73266c6f676f436f6c6f723d7768697465" alt="" data-canonical-src="https://img.shields.io/badge/LineageOS-18.1-167C80?style=flat-square&amp;logo=lineageos&amp;logoColor=white" style="max-width: 100%;"></a>
-<a href="https://www.apple.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/2c4d8cc84d1c25ce9f89e5763f13d7a8b340f6e225d15701df6e74010b24ec7b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f694f532d31352d3030303030303f7374796c653d666c61742d737175617265266c6f676f3d696f73266c6f676f436f6c6f723d7768697465" alt="" data-canonical-src="https://img.shields.io/badge/iOS-15-000000?style=flat-square&amp;logo=ios&amp;logoColor=white" style="max-width: 100%;"></a></p>
+<a href="https://www.apple.com/" rel="nofollow"><img src="https://camo.githubusercontent.com/2c4d8cc84d1c25ce9f89e5763f13d7a8b340f6e225d15701df6e74010b24ec7b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f694f532d31352d3030303030303f7374796c653d666c61742d737175617265266c6f676f3d696f73266c6f676f436f6c6f723d7768697465" alt="" data-canonical-src="https://img.shields.io/badge/iOS-15-000000?style=flat-square&amp;logo=ios&amp;logoColor=white" style="max-width: 100%;"></a></p> 
 
    
 
